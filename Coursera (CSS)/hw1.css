@@ -1,0 +1,32 @@
+header {
+  background-color: rgb(182, 180, 180);
+  color: white;
+  text-align: center;
+}
+nav {
+  text-align: left;
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+aside {
+  display: none;
+}
+
+section {
+  background-color: gray;
+}
+
+h2 {
+  color: blue;
+  font-weight: 700;
+}
+
+p {
+  text-align: left;
+  justify-content: space-evenly;
+  font-size: large;
+}
